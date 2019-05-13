@@ -3,12 +3,12 @@
 
 def fizzbuzz(num)
   if 
-    returns "FizzBuzz"
+    return "FizzBuzz"
     elsif 
-    returns "Fizz"
+    return "Fizz"
     elsif 
-    returns "Buzz"
+    return "Buzz"
   else
-    returns nil
+    return nil
   end
 end
